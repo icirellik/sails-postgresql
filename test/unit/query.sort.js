@@ -1,4 +1,4 @@
-var Sequel = require('waterline-sequel'), 
+var Sequel = require('porch-forked-waterline-sequel'),
     should = require('should'),
     Support = require('./support/bootstrap');
 
